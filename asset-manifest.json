@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/branched-narrative-code/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/branched-narrative-code/static/js/main.ff36a4ed.chunk.js",
+    "main.js.map": "/branched-narrative-code/static/js/main.ff36a4ed.chunk.js.map",
+    "runtime-main.js": "/branched-narrative-code/static/js/runtime-main.4c6f91d5.js",
+    "runtime-main.js.map": "/branched-narrative-code/static/js/runtime-main.4c6f91d5.js.map",
+    "static/js/2.be540787.chunk.js": "/branched-narrative-code/static/js/2.be540787.chunk.js",
+    "static/js/2.be540787.chunk.js.map": "/branched-narrative-code/static/js/2.be540787.chunk.js.map",
+    "index.html": "/branched-narrative-code/index.html",
+    "precache-manifest.dd79674d6e4f22cdc48f7ac5c2847085.js": "/branched-narrative-code/precache-manifest.dd79674d6e4f22cdc48f7ac5c2847085.js",
+    "service-worker.js": "/branched-narrative-code/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/branched-narrative-code/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.be540787.chunk.js.LICENSE.txt": "/branched-narrative-code/static/js/2.be540787.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/branched-narrative-code/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c6f91d5.js",
+    "static/js/2.be540787.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.ff36a4ed.chunk.js"
+  ]
+}
